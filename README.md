@@ -46,4 +46,3 @@ By studying flight data, we uncover how **airlines position themselves in the ma
 
 ---
 
-## 📂 Project Structure
