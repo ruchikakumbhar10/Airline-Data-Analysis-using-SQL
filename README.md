@@ -45,4 +45,5 @@ By studying flight data, we uncover how **airlines position themselves in the ma
 | **AirAsia**  | No-Frills Champ | Minimal service, lowest fares |
 
 ---
-
+## Author
+Ruchika Kumbhar Data Analyst and Data Scientist
