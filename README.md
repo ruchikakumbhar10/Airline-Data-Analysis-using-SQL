@@ -13,6 +13,7 @@ The insights generated support better pricing strategies, optimized scheduling, 
 ---
 
 ## 🗂️ Project Structure
+```
 Strategic-Airline-Market-Analysis/
 |
 |-- Data/
@@ -36,7 +37,7 @@ Strategic-Airline-Market-Analysis/
 |
 |-- README.md
 
-
+```
 ---
 
 ## 🎯 Business Problem
