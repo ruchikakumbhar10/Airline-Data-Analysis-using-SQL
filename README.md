@@ -13,29 +13,28 @@ The insights generated support better pricing strategies, optimized scheduling, 
 ---
 
 ## 🗂️ Project Structure
-
 Strategic-Airline-Market-Analysis/
-│
-├── Data/
-│ ├── airline_raw_data.csv
-│ └── airline_cleaned_data.csv
-│
-├── SQL/
-│ ├── data_cleaning_queries.sql
-│ ├── exploratory_analysis.sql
-│ ├── pricing_analysis.sql
-│ ├── route_dominance_analysis.sql
-│ └── window_function_analysis.sql
-│
-├── Outputs/
-│ ├── pricing_summary.csv
-│ ├── route_performance.csv
-│ └── revenue_insights.csv
-│
-├── Images/
-│ └── insights_visualization.png
-│
-└── README.md
+|
+|-- Data/
+|   |-- airline_raw_data.csv
+|   |-- airline_cleaned_data.csv
+|
+|-- SQL/
+|   |-- data_cleaning_queries.sql
+|   |-- exploratory_analysis.sql
+|   |-- pricing_analysis.sql
+|   |-- route_dominance_analysis.sql
+|   |-- window_function_analysis.sql
+|
+|-- Outputs/
+|   |-- pricing_summary.csv
+|   |-- route_performance.csv
+|   |-- revenue_insights.csv
+|
+|-- Images/
+|   |-- insights_visualization.png
+|
+|-- README.md
 
 
 ---
