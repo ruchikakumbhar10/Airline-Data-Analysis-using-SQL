@@ -8,7 +8,7 @@ The objective is to analyze airline pricing strategies, revenue patterns, passen
 
 By analyzing 15,000+ flight records, this project uncovers how airlines position themselves in the market and how travelers can optimize booking decisions through smarter timing and route selection.
 
-The insights generated support better pricing strategies, optimized scheduling, and revenue-focused decision-making.
+The insights generated support better pricing strategies, optimized scheduling, and revenue-focused decision-making..
 
 ---
 
